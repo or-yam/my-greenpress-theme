@@ -3,14 +3,16 @@
 </template>
 
 <style lang="scss" scoped>
-  @import "../colors";
+@import "../colors";
 
-  footer {
-    padding: 10px;
-    background-color: $mainColor;
-    position: sticky;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
+footer {
+  background-color: transparent;
+  color: #ccc;
+  padding: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+}
 </style>

@@ -13,11 +13,12 @@
 <style scoped>
 	a {
 		display: block;
-		padding: 10px 0;
+		padding: 10px;
 	}
 
 	.logo {
-		width: 150px;
+		width: 120px;
+		height: auto;
 	}
 
 

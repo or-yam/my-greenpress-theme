@@ -33,6 +33,7 @@
 	.top-header {
 		display: flex;
 		align-items: center;
+		padding: 10px;
 	}
 
 	.top-header .search-form {

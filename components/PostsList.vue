@@ -38,7 +38,7 @@
 		flex-direction: row;
 
 		&:nth-child(2n) {
-			background-color: #ddd;
+			background-color: #2c4553;
 		}
 	}
 

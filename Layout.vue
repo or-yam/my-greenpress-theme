@@ -55,6 +55,10 @@ a:hover {
 .app {
 	display: flex;
 	flex-direction: column;
+	min-height: 100vh;
+	position: relative;
+	background-color: #2c4655;
+	color: #ccc;
 }
 
 .row {
@@ -87,9 +91,6 @@ blockquote {
 }
 
 @media all and (min-width: 1200px) {
-	.app {
-		margin: 0.5rem;
-	}
 	.content, article {
 		margin: 0 auto;
 		width: 80%;
